@@ -1,0 +1,13 @@
+# ninja log v5
+0	635	6755635896966548	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+639	809	6755635898676535	kmp_openmp.exe	985f0f7287efe7ec
+3	609	6755638572070163	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+610	760	6755638573560523	kmp_openmp.exe	985f0f7287efe7ec
+3	638	6755638710838512	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+639	799	6755638712418537	kmp_openmp.exe	985f0f7287efe7ec
+3	569	6755638891704963	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+569	715	6755638893134631	kmp_openmp.exe	985f0f7287efe7ec
+3	510	6755639285759426	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+511	652	6755639287149344	kmp_openmp.exe	985f0f7287efe7ec
+9	1935	6756003280641983	CMakeFiles/kmp_openmp.dir/main.cpp.obj	72f6264755babf02
+1936	2848	6756003289630670	kmp_openmp.exe	985f0f7287efe7ec
